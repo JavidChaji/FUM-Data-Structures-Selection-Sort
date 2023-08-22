@@ -1,3 +1,3 @@
 # selection-sort
 
-Ferdowsi University of Mashhad Data-Structures-Selection-Sort
+Ferdowsi University of Mashhad Data Structures Selection Sort

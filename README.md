@@ -25,9 +25,9 @@ Ferdowsi University of Mashhad Data Structures Selection Sort
 [contributors-url]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/network/members
 
 
 <!-- Stars -->

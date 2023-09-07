@@ -43,9 +43,9 @@ Ferdowsi University of Mashhad Data Structures Selection Sort
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/blob/master/LICENSE
 
 
 <!-- Linkedin -->

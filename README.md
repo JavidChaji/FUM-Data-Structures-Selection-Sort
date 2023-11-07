@@ -1,17 +1,17 @@
 <a name="readme-top"></a>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors][Contributors-Shield]][Contributors-URL]
+[![Forks][Forks-Shield]][Forks-URL]
+[![Stargazers][Stars-Shield]][Stars-URL]
+[![Issues][Issues-Shield]][Issues-URL]
+[![MIT License][License-Shield]][License-URL]
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
+[![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
-# selection-sort
+# Selection Sort
 
 Ferdowsi University of Mashhad Data Structures Selection Sort
 
@@ -128,38 +128,38 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
+[Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/graphs/contributors
+[Contributors-URL]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/network/members
+[Forks-URL]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/stargazers
+[Stars-URL]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/issues
+[Issues-URL]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
+[License-Shield]: https://img.shields.io/github/license/javidchaji/FUM-Data-Structures-Selection-Sort.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/blob/master/LICENSE
+[License-URL]: https://github.com/javidchaji/FUM-Data-Structures-Selection-Sort/blob/master/LICENSE
 
 
-<!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+<!-- LinkedIn -->
+[LinkedIn-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
+[Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
 
 
 <!-- C++ -->
